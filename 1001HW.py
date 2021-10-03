@@ -9,5 +9,5 @@ for fre in range(1,6):
     elif guess < num:
         print("Too small~(～￣▽￣)～")
     elif guess > num:
-        print("Too big~§(*￣▽￣*)§")
+        print("Too big~(。・∀・)ノ")
 
